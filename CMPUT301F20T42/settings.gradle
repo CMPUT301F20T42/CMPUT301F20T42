@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "CMPUT301F20T42"
